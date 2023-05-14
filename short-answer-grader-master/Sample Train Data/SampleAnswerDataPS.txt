@@ -1,0 +1,20 @@
+Question:
+The orbits of these planets are circular. How can you see that from the shape of the radial velocity curve of the star?
+Reference answer:
+Looking at the radial velocity curve of the star, it is clear that it is constituted by two perfectly sinusoidal terms, both of them periodic, and which always have the same amplitude. 
+Thus, there are no asymmetry in these two sinusoidal functions. 
+For this reason, the orbits of the planets are circular. 
+Indeed, if this was not the case, we should have observed certain asymmetry in the radial velocity curve. 
+When the planet is at the apogee or at the perigee, it exerts a different gravitational pull on the star, which would result in an asymmetric behavior of the peaks of maximum and minimum of these sines in every single period.
+Student response 1:
+It can be seen that the orbits of these planets are circular by looking at the radial velocity curves of the star in Figure 1.  
+The eccentricity of the orbit of a planet affects the radial velocity curve of the star it revolves around, in a way such that the curve is not symmetrical or is skewed. 
+This can be seen from equation 1 where in the radial velocity curve parameters (amplitude and period) depend on the eccentricity and inclination of the planets orbit as well as the weight of the planet. 
+In this case the curves are uniform symmetrical sinusoidal waves which means that the eccentricity of the orbits of both planets is zero i.e. the orbits are circular. 
+Student response 2:
+The radial velocity of a star caused by a planet moving in a circular orbit around the star is largest in magnitude twice during a full period. 
+The radial velocity of the star is identical in magnitude at two points during a period for the inner as well as for the outer planet. 
+Therefore, it can be concluded that both planets move in circular orbit. 
+For elliptical orbit, the magnitude of the radial velocity of the star would be largest in magnitude at one point during a period, namely when the planet is closest to the star.
+Student response 3:
+We can see that the orbits are circular because, the maximum from one period to the next does not change in value, which wouldn’t be the case if the eccentricity wasn't 0.
